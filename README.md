@@ -1,6 +1,7 @@
 # Project-LI3
 
 Regarding IT Labs 3, we were challenged to make a C program that was responsible for managing large and small datasets of user's info.
+
 This program would have to anwser some queries, for example, we needed to show in which flights a certain user is on.
 We also had to mantain encapsulation and modulation, as well as creating a test program regarding the queries that were tested.
 
