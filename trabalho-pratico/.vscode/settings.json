@@ -1,0 +1,23 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "disabled",
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "stdio.h": "c",
+        "voos.h": "c",
+        "parser.h": "c",
+        "utilizadores.h": "c",
+        "string.h": "c",
+        "reservas.h": "c",
+        "queries.h": "c",
+        "estruturas.h": "c",
+        "passageiros.h": "c",
+        "typeinfo": "c",
+        "utilizadores_dados.h": "c",
+        "parser_interativo.h": "c",
+        "stdlib.h": "c",
+        "utilidades.h": "c",
+        "glib.h": "c",
+        "voos_dados.h": "c",
+        "ncurses.h": "c"
+    }
+}
